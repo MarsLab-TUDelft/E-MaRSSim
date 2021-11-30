@@ -14,5 +14,5 @@ The simulation framework is based on Python and can be operated across platforms
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wy-PjGZrhH-X4a38w8nE_OVkuHkqdpid)
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![](Simulation_Flow_Diagram.jpeg)
 
